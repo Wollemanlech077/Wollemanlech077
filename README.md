@@ -1,5 +1,25 @@
-# 💫 About Me:
-## Hi there 👋 I'm Arturo Ordaz  <br><br>🌎 Technology & Society | Safer world advocate  <br>🎓 Hult International Business School  <br>💡 Building safer communities through technology  <br><br>---<br><br>### 🚀 Projects<br>- [Centinel App](https://centinel.app) – Empowering citizen safety across LATAM  <br>- [RiskGrid API](https://riskgrid.ai) – Global Address Risk Intelligence  <br><br>---<br><br>### 🔗 Connect with me  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-o-41371424a)  <br><br>---<br><br>🧠 *Currently exploring how technology can make our world safer, smarter, and more connected.*<br>
+## 👋 About Me
+
+### Hi there, I'm **Arturo Ordaz**  
+🌎 *Technology & Society | Safer world advocate*  
+🎓 *Hult International Business School*  
+💡 Building safer communities through technology.  
+
+---
+
+### 🚀 Projects
+- [**Centinel App**](https://centinel.app) — Empowering citizen safety across LATAM.  
+- [**RiskGrid API**](https://riskgrid.ai) — Global Address Risk Intelligence (🏆 4th place at Acta Hackathon).  
+
+---
+
+### 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-o-41371424a)  
+[![Website](https://img.shields.io/badge/🌐_centinel.app-000?logo=vercel&logoColor=white)](https://centinel.app)
+
+---
+
+🧠 *Currently exploring how technology can make our world safer, smarter, and more connected.*
 
 
 ## 🌐 Socials:
