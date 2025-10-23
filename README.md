@@ -8,8 +8,10 @@
 ---
 
 ### 🚀 Projects
-- [**Centinel App**](https://centinel.app) — Empowering citizen safety across LATAM.  
-- [**RiskGrid API**](https://riskgrid.ai) — Global Address Risk Intelligence (🏆 4th place at Acta Hackathon).  
+
+- [**Centinel App**](https://www.centinelapp.com) — Empowering citizen safety across LATAM.  
+- [**RiskGrid API**](https://global-hackathon-v1-sage.vercel.app) — Global Address Risk Intelligence 🏆 4th place at Acta Hackathon.
+
 
 ---
 
