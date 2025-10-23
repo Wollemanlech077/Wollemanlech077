@@ -17,7 +17,6 @@
 
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-o-41371424a)  
-[![Website](https://img.shields.io/badge/🌐_centinel.app-000?logo=vercel&logoColor=white)](https://centinel.app)
 
 ---
 
