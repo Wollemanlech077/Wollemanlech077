@@ -15,7 +15,6 @@
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-o-41371424a)  
 [![Website](https://img.shields.io/badge/🌐_Portfolio-000?logo=vercel&logoColor=white)](https://centinel.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Wollemanlech077)
 
 ---
 
